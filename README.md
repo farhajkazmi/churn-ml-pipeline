@@ -57,7 +57,7 @@ The objective is to identify customers who are likely to churn and build a repro
 
 ## Repository Structure
 
-
+```text
 churn-ml-pipeline/
 │
 ├── data/
@@ -67,10 +67,11 @@ churn-ml-pipeline/
 ├── requirement.txt
 ├── README.md
 └── .gitignore
+```
 
 
 ## Author
 
-Farhaj Kazmi
-Master's Student – Computer and Systems Engineering
+**Farhaj Kazmi**  
+Master's Student – Computer and Systems Engineering  
 TU Ilmenau, Germany
